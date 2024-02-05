@@ -1,0 +1,47 @@
+* {
+    margin: auto;
+    padding: 0px;
+}
+.classes{
+    width: auto;
+    height: auto;
+    
+}
+.card {
+    box-shadow: 0 4px 10px 0 green;
+    transition: 0.3s;
+    width: 325px;
+    height: 300px;
+    margin: 50px 15px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.card h4{
+    font-family: sans-serif;
+
+    font-style: italic;
+    color: green;
+    font-stretch: normal;
+    font: bold;
+    margin: 15px 15px;
+    text-align: center;
+}
+.card p{
+    font-family: sans-serif;
+    font-size: small;
+
+    font-style: italic;
+    margin: 15px 15px;
+    color: black;
+
+}
+.card a:link{
+    text-decoration: none;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 black;
+}
+.container2{
+    width: 325px;
+    height: auto;
+}

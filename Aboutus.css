@@ -1,0 +1,76 @@
+* {
+    margin: auto;
+    padding: 0px;
+}
+#part1{
+    width: 600px;
+    float: left;
+    margin-left: 90px;
+   
+}
+#part2{
+    width: 300px;
+    float: right;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+
+#part2 input{
+    padding: 10px 5px;
+    margin: 5px 3px;
+    border-radius: 5px;
+}
+
+.Aboutus .button{
+    background-color: green;
+    border-radius: 7px;
+    border: solid 2px white;
+    font-style: italic;
+    font-family: sans-serif;
+    color: white;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.Aboutus a:hover {
+    background-color: white;
+    color: black;
+    font: bolder;
+    font-style: italic;
+    border: solid 2px green;
+}
+
+.Aboutus{
+    width: auto;
+    height: auto;
+    font-family: sans-serif;
+    margin: 50px;
+    display: inline-block;
+    
+}
+.Aboutus h5{
+    margin: 20px 0px;
+    line-height: 150%;
+
+    font-family: sans-serif;
+
+    
+}
+.Aboutus h4{
+    font-stretch: ultra-condensed;
+    font-size: 40px;
+    font: 900;
+    font-style: italic;
+}
+.Aboutus h2{
+    font-stretch: ultra-condensed;
+    font: 900;
+    font-style: italic;
+}
+.Aboutus ul li{
+    margin: 05px 12px;
+}
